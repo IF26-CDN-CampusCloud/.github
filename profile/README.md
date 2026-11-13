@@ -22,7 +22,6 @@
 8. [Cross-Repository Dependencies](#8-cross-repository-dependencies)
 9. [Shared Contracts](#9-shared-contracts)
 10. [Shared HTTP Correctness Test Matrix](#10-shared-http-correctness-test-matrix)
-11. [Workflow and Continuous Integration](#11-workflow-and-continuous-integration)
 
 ---
 
